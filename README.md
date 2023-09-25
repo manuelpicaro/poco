@@ -1,2 +1,2 @@
 # poco
-Pinnacle Opening/Close Odds
+Pinnacle Opening/Closing Odds
